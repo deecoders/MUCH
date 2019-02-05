@@ -1,4 +1,4 @@
-#SprintOJ
+#MUCH
 A fully automated Online-Judge to check codes of admin-uploadable questions written in the user choice's language.
 Backend written in NodeJS and frontend in AngularJS.
 
