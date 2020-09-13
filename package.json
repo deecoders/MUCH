@@ -18,7 +18,7 @@
     "media-typer": "^0.3.0",
     "mime-db": "^1.25.0",
     "mime-types": "^2.1.13",
-    "minimist": "^0.0.8",
+    "minimist": "^1.2.5",
     "mkdirp": "^0.5.1",
     "multer": "^1.2.1",
     "object-assign": "^3.0.0",
